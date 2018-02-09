@@ -13,7 +13,7 @@ This will allow us to create private repositories and share private repositories
 
 
 ## 3. Click Dr. Reese's email to view the Geomicrobiology repository
-This gives you access to shared files
+This gives you access to shared filess
 	
 	
 	
