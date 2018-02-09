@@ -4,7 +4,7 @@
 (I am using markdown formatting in the BBEdit application)
 
 ## 1. Make a user on GitHub
-...This will allow you to access GitHub
+⋅⋅⋅This will allow you to access GitHub
 
 
 ## 2. Sign up as an educator
