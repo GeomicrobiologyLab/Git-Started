@@ -19,13 +19,11 @@ This gives you access to shared filess
 	
 ## 4. Download the github desktop application
 
-   This will create a folder in your documents folder called Github. fniauewnfuinfuafn kdfiuaesfnuw shkfiuajeu jkaehiufaheiurha ashedfrauheriu aejhfraiuwehriu asehruaisejrui sehfuiawheriu
+	This will create a folder in your documents folder called Github.
    
-   
-   This is where all of your files will be. (new paragrpah)
+	This is where all of your files will be.
 
-
-You can download the repositories to your computer 
+	You can download the repositories to your computer 
 
 
 ## 5. How to change files on your laptop and _push_ them to the online repository
