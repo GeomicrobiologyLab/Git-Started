@@ -1,0 +1,14 @@
+# CDEBI Bioinformatics Workshop
+###Dr. Ben Tully
+
+## Part One - Unix commands
+* ls
+* pwd 
+* ..
+* cp
+* rm
+* rm -r
+* touch
+
+
+
